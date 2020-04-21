@@ -24,3 +24,7 @@ var= array.shift
 var
 end
 
+def shift_with_args(array)
+var= array.shift(2)
+var
+end
