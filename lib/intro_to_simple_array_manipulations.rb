@@ -23,3 +23,4 @@ def using_shift(array)
 var= array.shift
 var
 end
+
